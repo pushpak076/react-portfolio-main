@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Internship",
+    "organisation": "CA Department",
+    "startDate": "Jan, 2024 ",
+    "endDate": "Present",
+    "experiences": ["Working on AIQ", "Using LSTM Algorithm","Tech-python"],
+    "imageSrc": "history/google1.png"
+  },
+  {
+    "role": "Internship",
+    "organisation": "CA Department",
+    "startDate": "Aug, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": ["Worked on Malware", "Detection using API call","Tech-python"],
+    "imageSrc": "history/google1.png"
+  }
+]

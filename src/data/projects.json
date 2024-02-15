@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Yum-Yum-Foodie",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn MERN Technology and implement a web-site.",
+    "skills": ["Mongodb", "Express", "React","Node"],
+    "demo": "https://github.com/pushpak076/yum-yum-foodie",
+    "source": "https://github.com/pushpak076/yum-yum-foodie"
+  },
+  {
+    "title": "User Management System",
+    "imageSrc": "projects/project.png",
+    "description": "Dynamic web app for user data management with CRUD operations.",
+    "skills": ["Mongodb", "Express", "React","Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "Showcasing my diverse skillset through design and innovative projects..",
+    "skills": ["HTML", "CSS", "Figma", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Malware Detection",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project  aim to detect a signature malware from ASM file.",
+    "skills": ["python", "VS-Code", "Jupyter Notebook"],
+    "demo": "https://github.com/pushpak076/malware-detection",
+    "source": "https://github.com/pushpak076/malware-detection"
+  }
+]
